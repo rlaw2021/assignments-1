@@ -59,4 +59,38 @@ In a way, you _are_ playing the role of an explorer, and the amazing thing is th
 * Your map may use any visual medium, ranging from something that is legibly hand-drawn then scanned/photographed to something made with a drawing tool—whichever approach you choose, upload the final result to the allocated repository as well. Name this file _map.*_ where _*_ indicates the format of the map file (e.g., _map.pdf_, _map.jpg_, etc.).
 
 ## Specific Point Allocations
-This assignment covers outcomes _1a_–_1c_ and _2a_ as described in the [syllabus](http://dondi.lmu.build/spring2020/cmsi355/cmsi355-spring2020-syllabus.pdf).
+This assignment covers outcomes _1a_–_1c_, _2a_, _2c_, and _4d_–_4f_ as described in the [syllabus](http://dondi.lmu.build/spring2020/cmsi355/cmsi355-spring2020-syllabus.pdf). For this particular assignment, graded categories are as follows:
+
+| Category | Points | Outcomes |
+| -------- | -----: | -------- |
+| IP address | 0.25 points each, 1.5 points total | _1a_, _1b_ |
+| Subnet mask | 0.25 points each, 1.5 points total | _1a_, _1b_ |
+| Router | 0.25 points each, 1.5 points total | _1a_, _1b_ |
+| Domain name server(s) | 0.25 points each, 1.5 points total | _1a_, _1b_ |
+| Routing table | 0.25 points each, 1.5 points total | _1c_, _2a_, _2c_ |
+| _arp_ findings | 0.5 points each, 3 points total | _1b_, _1c_, _2a_, _2c_ |
+| _ping_ LAN host | 0.25 points each, 1.5 points total | _2a_, _2c_ |
+| _ping_ router | 0.25 points each, 1.5 points total | _2a_, _2c_ |
+| _ping_ DNS | 0.25 points each, 1.5 points total | _2a_, _2c_ |
+| _ping_ www.lmu.edu | 0.25 points each, 1.5 points total | _2a_, _2c_ |
+| _ping_ external host | 0.25 points each, 1.5 points total | _2a_, _2c_ |
+| _traceroute_ LAN host | 0.5 points each, 3 points total | _1c_, _2a_, _2c_ |
+| _traceroute_ router | 0.5 points each, 3 points total | _1c_, _2a_, _2c_ |
+| _traceroute_ DNS | 0.5 points each, 3 points total | _1c_, _2a_, _2c_ |
+| _traceroute_ www.lmu.edu | 0.5 points each, 3 points total | _1c_, _2a_, _2c_ |
+| _traceroute_ external host | 0.5 points each, 3 points total | _1c_, _2a_, _2c_ |
+| _dig_ www.lmu.edu | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _dig_ external host | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ LAN host | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ router | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ DNS | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ www.lmu.edu | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ external host | 0.5 points each, 3 points total | _2a_, _2c_ |
+| _nmap_ intermediate stop | 0.5 points each, 3 points total | _2a_, _2c_ |
+| Overall log | 13 | _1a_, _1b_, _4d_ |
+| Overall map | 25 | _1a_, _1b_, _1c_, _4d_ |
+| Fun theme | 5 | 🤩😎🤓🧐🤔 |
+| Version Control | deduction only | _4e_ |
+| Punctuality | deduction only | _4f_ |
+| **Total** | **100** |
+
